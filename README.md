@@ -69,8 +69,10 @@ ED-SSS was designed and developed by:
 
 ### Contributions
 
-- **Prasaj Bajpai** – Project Architecture, Research, System Design, Integration
-- **Rajat Yadav** – Backend Development, Event Processing Engine, FastAPI Services
-- **Shantanu Rathod** – Frontend Development, Dashboard UI/UX, Data Visualization
+- **Prasaj Bajpai** – Project Architecture, Full-Stack Development, Neuromorphic System Design, Event Processing Pipeline, Dashboard Development, Integration & Deployment
+- **Rajat Yadav** – Research, Literature Review, Problem Analysis, Feature Ideation, Documentation Support
+- **Shantanu Rathod** – Testing, Validation, Debugging, System Implementation Support, Performance Evaluation
+
 
 Project developed as a collaborative hackathon submission focused on Neuromorphic-Inspired Event-Driven Surveillance Systems.
+
